@@ -61,32 +61,14 @@ void sil(int x){
 	
 }
 
+
 int main(){
 	
 	
 	ekle (1);
 	ekle(4);
-	
-	ekle (1);
-	ekle(4);
-	
-	ekle (1);
-	ekle(4);
-	
-	ekle (5);
-	ekle(4);
-	
-	ekle (1);
-	ekle(4);
-	
-	ekle (1);
-	ekle(4);
-	
-	ekle (1);
-	ekle(4);
 	goster();
-	sil(5);
-	cout<<"sildim"<<endl;
-	goster();
+
 	return 0;
+
 }
